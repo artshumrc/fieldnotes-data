@@ -26,25 +26,6 @@
           "fields": []
         }
       ]
-    },
-    {
-      "id": "https://example.invalid/audio-annotation/sds/498530875/annotation/49153418-11dc-41aa-a3a9-ea4925033d20",
-      "type": "Annotation",
-      "motivation": "describing",
-      "target": "https://example.invalid/audio-annotation/sds/498530875/canvas/1#t=177.006,247.809",
-      "body": [
-        {
-          "type": "Dataset",
-          "id": "https://example.invalid/audio-annotation/sds/498530875/annotation/49153418-11dc-41aa-a3a9-ea4925033d20/span",
-          "format": "application/ld+json",
-          "spanSchema": "audio-span/v1",
-          "spanId": "49153418-11dc-41aa-a3a9-ea4925033d20",
-          "parent": null,
-          "spanCreated": 3,
-          "spanLabel": "",
-          "fields": []
-        }
-      ]
     }
   ]
 }
