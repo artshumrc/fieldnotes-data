@@ -45,13 +45,13 @@
       ],
       "annotations": [
         {
-          "id": "https://artshumrc.github.io/fieldnotes-data/annotations/498530875.annotationpage.json",
+          "id": "https://raw.githubusercontent.com/artshumrc/fieldnotes-data/published/annotations/498530875.annotationpage.json",
           "type": "AnnotationPage"
         }
       ],
       "seeAlso": [
         {
-          "id": "https://artshumrc.github.io/fieldnotes-data/waveforms/498530875.dat.gz",
+          "id": "https://raw.githubusercontent.com/artshumrc/fieldnotes-data/published/waveforms/498530875.dat.gz",
           "type": "Dataset",
           "format": "application/octet-stream",
           "profile": "http://waveform.prototyping.bbc.co.uk",
