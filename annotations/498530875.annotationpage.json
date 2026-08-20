@@ -1,0 +1,31 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.invalid/audio-annotation/sds/498530875/annotations/1",
+  "type": "AnnotationPage",
+  "audioAnnotationEditor": {
+    "schemaVersion": 1,
+    "sdsId": "498530875",
+    "duration": 1670.94
+  },
+  "items": [
+    {
+      "id": "https://example.invalid/audio-annotation/sds/498530875/annotation/c17eb669-8146-44a0-9a0d-2a5df6217a2f",
+      "type": "Annotation",
+      "motivation": "describing",
+      "target": "https://example.invalid/audio-annotation/sds/498530875/canvas/1#t=1.400,12.133",
+      "body": [
+        {
+          "type": "Dataset",
+          "id": "https://example.invalid/audio-annotation/sds/498530875/annotation/c17eb669-8146-44a0-9a0d-2a5df6217a2f/span",
+          "format": "application/ld+json",
+          "spanSchema": "audio-span/v1",
+          "spanId": "c17eb669-8146-44a0-9a0d-2a5df6217a2f",
+          "parent": null,
+          "spanCreated": 1,
+          "spanLabel": "Intro music",
+          "fields": []
+        }
+      ]
+    }
+  ]
+}

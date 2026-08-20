@@ -1,0 +1,67 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.invalid/audio-annotation/sds/498530875/manifest",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Camp for Transgender and Gender-Variant Youth"
+    ]
+  },
+  "homepage": [
+    {
+      "id": "https://mps.lib.harvard.edu/sds/audio/498530875",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "en": [
+          "Listen on Harvard SDS"
+        ]
+      }
+    }
+  ],
+  "rendering": [
+    {
+      "id": "https://mps.lib.harvard.edu/sds/audio/498530875",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "en": [
+          "Listen on Harvard SDS"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://example.invalid/audio-annotation/sds/498530875/canvas/1",
+      "type": "Canvas",
+      "duration": 1670.94,
+      "items": [
+        {
+          "id": "https://example.invalid/audio-annotation/sds/498530875/canvas/1/painting/1",
+          "type": "AnnotationPage",
+          "items": []
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://artshumrc.github.io/fieldnotes-data/annotations/498530875.annotationpage.json",
+          "type": "AnnotationPage"
+        }
+      ],
+      "seeAlso": [
+        {
+          "id": "https://artshumrc.github.io/fieldnotes-data/waveforms/498530875.dat.gz",
+          "type": "Dataset",
+          "format": "application/octet-stream",
+          "profile": "http://waveform.prototyping.bbc.co.uk",
+          "label": {
+            "en": [
+              "Waveform peaks"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
