@@ -81,7 +81,7 @@
       "id": "https://example.invalid/audio-annotation/sds/498530875/annotation/79d3c920-5282-4a07-bb71-5ee928872b57",
       "type": "Annotation",
       "motivation": "describing",
-      "target": "https://example.invalid/audio-annotation/sds/498530875/canvas/1#t=20.363,22.318",
+      "target": "https://example.invalid/audio-annotation/sds/498530875/canvas/1#t=18.696,20.651",
       "body": [
         {
           "type": "Dataset",
@@ -91,6 +91,25 @@
           "spanId": "79d3c920-5282-4a07-bb71-5ee928872b57",
           "parent": "5f3d90f0-62b7-41db-b7a9-9b88dca8ffb1",
           "spanCreated": 4,
+          "spanLabel": "",
+          "fields": []
+        }
+      ]
+    },
+    {
+      "id": "https://example.invalid/audio-annotation/sds/498530875/annotation/249317f6-0b3e-4311-8ec5-1be0ced14e27",
+      "type": "Annotation",
+      "motivation": "describing",
+      "target": "https://example.invalid/audio-annotation/sds/498530875/canvas/1#t=30.999,39.199",
+      "body": [
+        {
+          "type": "Dataset",
+          "id": "https://example.invalid/audio-annotation/sds/498530875/annotation/249317f6-0b3e-4311-8ec5-1be0ced14e27/span",
+          "format": "application/ld+json",
+          "spanSchema": "audio-span/v1",
+          "spanId": "249317f6-0b3e-4311-8ec5-1be0ced14e27",
+          "parent": null,
+          "spanCreated": 5,
           "spanLabel": "",
           "fields": []
         }
