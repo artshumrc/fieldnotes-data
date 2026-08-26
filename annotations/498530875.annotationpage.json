@@ -133,6 +133,25 @@
           "fields": []
         }
       ]
+    },
+    {
+      "id": "https://example.invalid/audio-annotation/sds/498530875/annotation/1ae39a54-b8f9-4aab-a1b5-a1d19c0471cb",
+      "type": "Annotation",
+      "motivation": "describing",
+      "target": "https://example.invalid/audio-annotation/sds/498530875/canvas/1#t=42.572,45.931",
+      "body": [
+        {
+          "type": "Dataset",
+          "id": "https://example.invalid/audio-annotation/sds/498530875/annotation/1ae39a54-b8f9-4aab-a1b5-a1d19c0471cb/span",
+          "format": "application/ld+json",
+          "spanSchema": "audio-span/v1",
+          "spanId": "1ae39a54-b8f9-4aab-a1b5-a1d19c0471cb",
+          "parent": null,
+          "spanCreated": 8,
+          "spanLabel": "",
+          "fields": []
+        }
+      ]
     }
   ]
 }
