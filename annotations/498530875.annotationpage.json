@@ -100,7 +100,7 @@
       "id": "https://example.invalid/audio-annotation/sds/498530875/annotation/249317f6-0b3e-4311-8ec5-1be0ced14e27",
       "type": "Annotation",
       "motivation": "describing",
-      "target": "https://example.invalid/audio-annotation/sds/498530875/canvas/1#t=30.999,39.199",
+      "target": "https://example.invalid/audio-annotation/sds/498530875/canvas/1#t=30.866,39.065",
       "body": [
         {
           "type": "Dataset",
