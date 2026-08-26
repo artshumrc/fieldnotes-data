@@ -16,6 +16,12 @@
       "target": "https://example.invalid/audio-annotation/sds/498530875/canvas/1#t=0.644,12.133",
       "body": [
         {
+          "type": "TextualBody",
+          "purpose": "describing",
+          "format": "text/plain",
+          "value": ""
+        },
+        {
           "type": "Dataset",
           "id": "https://example.invalid/audio-annotation/sds/498530875/annotation/c17eb669-8146-44a0-9a0d-2a5df6217a2f/span",
           "format": "application/ld+json",
@@ -24,7 +30,12 @@
           "parent": null,
           "spanCreated": 1,
           "spanLabel": "Intro music",
-          "fields": []
+          "fields": [
+            {
+              "name": "",
+              "value": ""
+            }
+          ]
         }
       ]
     },
