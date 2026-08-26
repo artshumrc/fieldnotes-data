@@ -114,6 +114,25 @@
           "fields": []
         }
       ]
+    },
+    {
+      "id": "https://example.invalid/audio-annotation/sds/498530875/annotation/9b5d2c0c-9abc-4686-8dc2-423f18468108",
+      "type": "Annotation",
+      "motivation": "describing",
+      "target": "https://example.invalid/audio-annotation/sds/498530875/canvas/1#t=40.473,41.668",
+      "body": [
+        {
+          "type": "Dataset",
+          "id": "https://example.invalid/audio-annotation/sds/498530875/annotation/9b5d2c0c-9abc-4686-8dc2-423f18468108/span",
+          "format": "application/ld+json",
+          "spanSchema": "audio-span/v1",
+          "spanId": "9b5d2c0c-9abc-4686-8dc2-423f18468108",
+          "parent": null,
+          "spanCreated": 7,
+          "spanLabel": "",
+          "fields": []
+        }
+      ]
     }
   ]
 }
