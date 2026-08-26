@@ -5,7 +5,8 @@
   "audioAnnotationEditor": {
     "schemaVersion": 1,
     "sdsId": "498530875",
-    "duration": 1670.94
+    "duration": 1670.94,
+    "title": "Camp for Transgender and Gender-Variant Youth"
   },
   "items": [
     {
@@ -23,6 +24,25 @@
           "parent": null,
           "spanCreated": 1,
           "spanLabel": "Intro music",
+          "fields": []
+        }
+      ]
+    },
+    {
+      "id": "https://example.invalid/audio-annotation/sds/498530875/annotation/e57d1a5c-1137-405e-90f0-2f21c667c21e",
+      "type": "Annotation",
+      "motivation": "describing",
+      "target": "https://example.invalid/audio-annotation/sds/498530875/canvas/1#t=138.065,240.729",
+      "body": [
+        {
+          "type": "Dataset",
+          "id": "https://example.invalid/audio-annotation/sds/498530875/annotation/e57d1a5c-1137-405e-90f0-2f21c667c21e/span",
+          "format": "application/ld+json",
+          "spanSchema": "audio-span/v1",
+          "spanId": "e57d1a5c-1137-405e-90f0-2f21c667c21e",
+          "parent": null,
+          "spanCreated": 2,
+          "spanLabel": "",
           "fields": []
         }
       ]
