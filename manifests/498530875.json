@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://example.invalid/audio-annotation/sds/498530875/manifest",
+  "id": "https://artshumrc.github.io/fieldnotes/sds/498530875/manifest",
   "type": "Manifest",
   "label": {
     "en": [
@@ -33,12 +33,12 @@
   ],
   "items": [
     {
-      "id": "https://example.invalid/audio-annotation/sds/498530875/canvas/1",
+      "id": "https://artshumrc.github.io/fieldnotes/sds/498530875/canvas/1",
       "type": "Canvas",
       "duration": 1670.94,
       "items": [
         {
-          "id": "https://example.invalid/audio-annotation/sds/498530875/canvas/1/painting/1",
+          "id": "https://artshumrc.github.io/fieldnotes/sds/498530875/canvas/1/painting/1",
           "type": "AnnotationPage",
           "items": []
         }
