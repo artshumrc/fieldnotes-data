@@ -1,0 +1,67 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://artshumrc.github.io/fieldnotes/sds/443295075/manifest",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Child, Julia"
+    ]
+  },
+  "homepage": [
+    {
+      "id": "https://mps.lib.harvard.edu/sds/audio/443295075",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "en": [
+          "Listen on Harvard SDS"
+        ]
+      }
+    }
+  ],
+  "rendering": [
+    {
+      "id": "https://mps.lib.harvard.edu/sds/audio/443295075",
+      "type": "Text",
+      "format": "text/html",
+      "label": {
+        "en": [
+          "Listen on Harvard SDS"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://artshumrc.github.io/fieldnotes/sds/443295075/canvas/1",
+      "type": "Canvas",
+      "duration": 186.066,
+      "items": [
+        {
+          "id": "https://artshumrc.github.io/fieldnotes/sds/443295075/canvas/1/painting/1",
+          "type": "AnnotationPage",
+          "items": []
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://raw.githubusercontent.com/artshumrc/fieldnotes-data/published/annotations/443295075.annotationpage.json",
+          "type": "AnnotationPage"
+        }
+      ],
+      "seeAlso": [
+        {
+          "id": "https://raw.githubusercontent.com/artshumrc/fieldnotes-data/published/waveforms/443295075.dat.gz",
+          "type": "Dataset",
+          "format": "application/octet-stream",
+          "profile": "http://waveform.prototyping.bbc.co.uk",
+          "label": {
+            "en": [
+              "Waveform peaks"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

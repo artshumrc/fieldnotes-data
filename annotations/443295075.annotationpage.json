@@ -1,0 +1,70 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://artshumrc.github.io/fieldnotes/sds/443295075/annotations/1",
+  "type": "AnnotationPage",
+  "audioAnnotationEditor": {
+    "schemaVersion": 1,
+    "sdsId": "443295075",
+    "duration": 186.066,
+    "title": "Child, Julia"
+  },
+  "items": [
+    {
+      "id": "https://artshumrc.github.io/fieldnotes/sds/443295075/annotation/56631efb-26bd-41a5-b070-fb421c7655c2",
+      "type": "Annotation",
+      "motivation": "describing",
+      "target": "https://artshumrc.github.io/fieldnotes/sds/443295075/canvas/1#t=32.913,64.180",
+      "body": [
+        {
+          "type": "Dataset",
+          "id": "https://artshumrc.github.io/fieldnotes/sds/443295075/annotation/56631efb-26bd-41a5-b070-fb421c7655c2/span",
+          "format": "application/ld+json",
+          "spanSchema": "audio-span/v1",
+          "spanId": "56631efb-26bd-41a5-b070-fb421c7655c2",
+          "parent": null,
+          "spanCreated": 1,
+          "spanLabel": "Description",
+          "fields": []
+        }
+      ]
+    },
+    {
+      "id": "https://artshumrc.github.io/fieldnotes/sds/443295075/annotation/58e85db7-907f-4725-bca8-29108a40dfdd",
+      "type": "Annotation",
+      "motivation": "describing",
+      "target": "https://artshumrc.github.io/fieldnotes/sds/443295075/canvas/1#t=58.502,86.225",
+      "body": [
+        {
+          "type": "Dataset",
+          "id": "https://artshumrc.github.io/fieldnotes/sds/443295075/annotation/58e85db7-907f-4725-bca8-29108a40dfdd/span",
+          "format": "application/ld+json",
+          "spanSchema": "audio-span/v1",
+          "spanId": "58e85db7-907f-4725-bca8-29108a40dfdd",
+          "parent": null,
+          "spanCreated": 2,
+          "spanLabel": "",
+          "fields": []
+        }
+      ]
+    },
+    {
+      "id": "https://artshumrc.github.io/fieldnotes/sds/443295075/annotation/04aa3124-88a3-4d41-808c-4067e3bb7525",
+      "type": "Annotation",
+      "motivation": "describing",
+      "target": "https://artshumrc.github.io/fieldnotes/sds/443295075/canvas/1#t=75.152,106.127",
+      "body": [
+        {
+          "type": "Dataset",
+          "id": "https://artshumrc.github.io/fieldnotes/sds/443295075/annotation/04aa3124-88a3-4d41-808c-4067e3bb7525/span",
+          "format": "application/ld+json",
+          "spanSchema": "audio-span/v1",
+          "spanId": "04aa3124-88a3-4d41-808c-4067e3bb7525",
+          "parent": null,
+          "spanCreated": 3,
+          "spanLabel": "",
+          "fields": []
+        }
+      ]
+    }
+  ]
+}
