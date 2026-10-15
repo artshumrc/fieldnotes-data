@@ -16,6 +16,12 @@
       "target": "https://artshumrc.github.io/fieldnotes/sds/442504547/canvas/1#t=884.445,1731.393",
       "body": [
         {
+          "type": "TextualBody",
+          "purpose": "describing",
+          "format": "text/plain",
+          "value": ""
+        },
+        {
           "type": "Dataset",
           "id": "https://artshumrc.github.io/fieldnotes/sds/442504547/annotation/def4e127-99cd-4599-ba3d-538b6bd40766/span",
           "format": "application/ld+json",
@@ -24,7 +30,12 @@
           "parent": null,
           "spanCreated": 1,
           "spanLabel": "",
-          "fields": []
+          "fields": [
+            {
+              "name": "",
+              "value": ""
+            }
+          ]
         }
       ]
     }
