@@ -19,7 +19,13 @@
           "type": "TextualBody",
           "purpose": "describing",
           "format": "text/plain",
-          "value": "Thi"
+          "value": "This is a test"
+        },
+        {
+          "type": "TextualBody",
+          "purpose": "describing",
+          "format": "text/plain",
+          "value": ""
         },
         {
           "type": "Dataset",
@@ -33,7 +39,11 @@
           "fields": [
             {
               "name": "Comments",
-              "value": "Thi"
+              "value": "This is a test"
+            },
+            {
+              "name": "",
+              "value": ""
             }
           ]
         }
