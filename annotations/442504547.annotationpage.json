@@ -22,12 +22,6 @@
           "value": "This is a test"
         },
         {
-          "type": "TextualBody",
-          "purpose": "describing",
-          "format": "text/plain",
-          "value": ""
-        },
-        {
           "type": "Dataset",
           "id": "https://artshumrc.github.io/fieldnotes/sds/442504547/annotation/def4e127-99cd-4599-ba3d-538b6bd40766/span",
           "format": "application/ld+json",
@@ -40,10 +34,6 @@
             {
               "name": "Comments",
               "value": "This is a test"
-            },
-            {
-              "name": "",
-              "value": ""
             }
           ]
         }
