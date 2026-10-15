@@ -8,5 +8,36 @@
     "duration": 7206.975,
     "title": null
   },
-  "items": []
+  "items": [
+    {
+      "id": "https://artshumrc.github.io/fieldnotes/sds/442504547/annotation/96e13103-ab94-44a5-ac2d-a8833778326c",
+      "type": "Annotation",
+      "motivation": "describing",
+      "target": "https://artshumrc.github.io/fieldnotes/sds/442504547/canvas/1#t=1319.840,2098.970",
+      "body": [
+        {
+          "type": "TextualBody",
+          "purpose": "describing",
+          "format": "text/plain",
+          "value": ""
+        },
+        {
+          "type": "Dataset",
+          "id": "https://artshumrc.github.io/fieldnotes/sds/442504547/annotation/96e13103-ab94-44a5-ac2d-a8833778326c/span",
+          "format": "application/ld+json",
+          "spanSchema": "audio-span/v1",
+          "spanId": "96e13103-ab94-44a5-ac2d-a8833778326c",
+          "parent": null,
+          "spanCreated": 2,
+          "spanLabel": "",
+          "fields": [
+            {
+              "name": "Comments",
+              "value": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
