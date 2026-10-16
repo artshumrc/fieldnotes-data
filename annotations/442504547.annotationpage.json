@@ -38,6 +38,25 @@
           ]
         }
       ]
+    },
+    {
+      "id": "https://artshumrc.github.io/fieldnotes/sds/442504547/annotation/90343a29-b5a4-4e81-aed7-f657504a859f",
+      "type": "Annotation",
+      "motivation": "describing",
+      "target": "https://artshumrc.github.io/fieldnotes/sds/442504547/canvas/1#t=1106.996,1228.996",
+      "body": [
+        {
+          "type": "Dataset",
+          "id": "https://artshumrc.github.io/fieldnotes/sds/442504547/annotation/90343a29-b5a4-4e81-aed7-f657504a859f/span",
+          "format": "application/ld+json",
+          "spanSchema": "audio-span/v1",
+          "spanId": "90343a29-b5a4-4e81-aed7-f657504a859f",
+          "parent": null,
+          "spanCreated": 3,
+          "spanLabel": "",
+          "fields": []
+        }
+      ]
     }
   ]
 }
