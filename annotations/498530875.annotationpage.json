@@ -85,7 +85,7 @@
           "type": "TextualBody",
           "purpose": "describing",
           "format": "text/plain",
-          "value": "this is"
+          "value": "this is some more text"
         },
         {
           "type": "Dataset",
@@ -103,7 +103,7 @@
             },
             {
               "name": "Text as Sung",
-              "value": "this is"
+              "value": "this is some more text"
             }
           ]
         }
