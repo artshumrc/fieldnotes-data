@@ -107,7 +107,7 @@
           "spanId": "6aebc4dd-c777-4131-ad68-1cd431068171",
           "parent": null,
           "spanCreated": 3,
-          "spanLabel": "",
+          "spanLabel": "This is my description",
           "fields": [
             {
               "name": "Comments",
