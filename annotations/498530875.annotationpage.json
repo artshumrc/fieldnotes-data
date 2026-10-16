@@ -94,6 +94,12 @@
           "value": "and some more text"
         },
         {
+          "type": "TextualBody",
+          "purpose": "supplementing",
+          "format": "text/plain",
+          "value": "and some trans"
+        },
+        {
           "type": "Dataset",
           "id": "https://artshumrc.github.io/fieldnotes/sds/498530875/annotation/6aebc4dd-c777-4131-ad68-1cd431068171/span",
           "format": "application/ld+json",
@@ -114,6 +120,10 @@
             {
               "name": "Transcription",
               "value": "and some more text"
+            },
+            {
+              "name": "Translation",
+              "value": "and some trans"
             }
           ]
         }
