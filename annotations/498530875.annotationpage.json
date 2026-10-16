@@ -97,7 +97,7 @@
           "type": "TextualBody",
           "purpose": "supplementing",
           "format": "text/plain",
-          "value": "and some trans"
+          "value": "and some translation text"
         },
         {
           "type": "Dataset",
@@ -123,7 +123,7 @@
             },
             {
               "name": "Translation",
-              "value": "and some trans"
+              "value": "and some translation text"
             }
           ]
         }
