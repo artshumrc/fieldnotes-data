@@ -97,7 +97,7 @@
           "type": "TextualBody",
           "purpose": "supplementing",
           "format": "text/plain",
-          "value": "and some translation text"
+          "value": "and some translation text this is some text this is some text this is some text this is some text this is some text this is some text this is some text this is some text this is some text this is some text this is some text this is some text this is some text this is some text this is some text this is some text this is some text this is some text this is some text this is some text this is some text this is some text this is some text this is some text this is some text this is some text "
         },
         {
           "type": "Dataset",
@@ -123,7 +123,7 @@
             },
             {
               "name": "Translation",
-              "value": "and some translation text"
+              "value": "and some translation text this is some text this is some text this is some text this is some text this is some text this is some text this is some text this is some text this is some text this is some text this is some text this is some text this is some text this is some text this is some text this is some text this is some text this is some text this is some text this is some text this is some text this is some text this is some text this is some text this is some text this is some text "
             }
           ]
         }
