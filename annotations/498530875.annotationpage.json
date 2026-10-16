@@ -79,7 +79,7 @@
           "type": "TextualBody",
           "purpose": "describing",
           "format": "text/plain",
-          "value": ""
+          "value": "this is some text"
         },
         {
           "type": "Dataset",
@@ -92,8 +92,8 @@
           "spanLabel": "",
           "fields": [
             {
-              "name": "",
-              "value": ""
+              "name": "Comments",
+              "value": "this is some text"
             }
           ]
         }
