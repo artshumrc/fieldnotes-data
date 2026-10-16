@@ -77,12 +77,6 @@
       "body": [
         {
           "type": "TextualBody",
-          "purpose": "supplementing",
-          "format": "text/plain",
-          "value": "This is an example, okay?"
-        },
-        {
-          "type": "TextualBody",
           "purpose": "describing",
           "format": "text/plain",
           "value": ""
@@ -97,10 +91,6 @@
           "spanCreated": 3,
           "spanLabel": "",
           "fields": [
-            {
-              "name": "Translation",
-              "value": "This is an example, okay?"
-            },
             {
               "name": "",
               "value": ""
