@@ -89,9 +89,9 @@
         },
         {
           "type": "TextualBody",
-          "purpose": "describing",
+          "purpose": "supplementing",
           "format": "text/plain",
-          "value": ""
+          "value": "and some more text"
         },
         {
           "type": "Dataset",
@@ -112,8 +112,8 @@
               "value": "this is some more text"
             },
             {
-              "name": "",
-              "value": ""
+              "name": "Transcription",
+              "value": "and some more text"
             }
           ]
         }
