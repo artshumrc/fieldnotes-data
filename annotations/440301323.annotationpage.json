@@ -5,7 +5,7 @@
   "audioAnnotationEditor": {
     "schemaVersion": 1,
     "sdsId": "440301323",
-    "duration": 1919.226,
+    "duration": 4.56,
     "title": "Tyagaraja Festival (5), 2/Feb/83",
     "customTitle": null
   },
@@ -14,7 +14,7 @@
       "id": "https://artshumrc.github.io/fieldnotes/sds/440301323/annotation/6e54c408-8a90-42fc-a2e3-a443e88763b6",
       "type": "Annotation",
       "motivation": "describing",
-      "target": "https://artshumrc.github.io/fieldnotes/sds/440301323/canvas/1#t=4.166,17.332",
+      "target": "https://artshumrc.github.io/fieldnotes/sds/440301323/canvas/1#t=4.166,4.560",
       "body": [
         {
           "type": "Dataset",
