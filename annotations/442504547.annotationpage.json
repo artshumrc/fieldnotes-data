@@ -7,7 +7,13 @@
     "sdsId": "442504547",
     "duration": 7206.975,
     "title": null,
-    "customTitle": "Richard's Example Recording"
+    "customTitle": "Richard's Example Recording",
+    "layers": [
+      "Text as Sung",
+      "Translation",
+      "Comments",
+      "Untitled"
+    ]
   },
   "items": [
     {
@@ -17,12 +23,6 @@
       "target": "https://artshumrc.github.io/fieldnotes/sds/442504547/canvas/1#t=1319.840,2098.970",
       "body": [
         {
-          "type": "TextualBody",
-          "purpose": "describing",
-          "format": "text/plain",
-          "value": ""
-        },
-        {
           "type": "Dataset",
           "id": "https://artshumrc.github.io/fieldnotes/sds/442504547/annotation/96e13103-ab94-44a5-ac2d-a8833778326c/span",
           "format": "application/ld+json",
@@ -31,12 +31,7 @@
           "parent": null,
           "spanCreated": 2,
           "spanLabel": "this is a test",
-          "fields": [
-            {
-              "name": "",
-              "value": ""
-            }
-          ]
+          "fields": []
         }
       ]
     },
@@ -63,10 +58,29 @@
           "spanLabel": "lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum ",
           "fields": [
             {
-              "name": "",
+              "name": "Untitled",
               "value": "lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum lorem impsum "
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "https://artshumrc.github.io/fieldnotes/sds/442504547/annotation/1b889b3b-db11-4fc6-9a19-c1ab6075da77",
+      "type": "Annotation",
+      "motivation": "describing",
+      "target": "https://artshumrc.github.io/fieldnotes/sds/442504547/canvas/1#t=142.862,603.663",
+      "body": [
+        {
+          "type": "Dataset",
+          "id": "https://artshumrc.github.io/fieldnotes/sds/442504547/annotation/1b889b3b-db11-4fc6-9a19-c1ab6075da77/span",
+          "format": "application/ld+json",
+          "spanSchema": "audio-span/v1",
+          "spanId": "1b889b3b-db11-4fc6-9a19-c1ab6075da77",
+          "parent": null,
+          "spanCreated": 5,
+          "spanLabel": "",
+          "fields": []
         }
       ]
     }
